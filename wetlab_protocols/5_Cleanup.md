@@ -23,15 +23,15 @@ Before sequencing, it is crucial to remove any free adapter and/or primer dimers
 - [ ] Load gel along with 5µL of ladder leaving a space between wells.
 - [ ] Run for ~45 minutes at 80V.
 - [ ] Using blue light tray, excise the band at 435bp into a empty preweighed tube
-- [ ] Weigh mass of gel and add 3 volumes buffer QG.
-- [ ] Incubate for 10min @ 50˚C or until gel has dissolved
-- [ ] Add 1 volume isopropanol (ex, if gel was 100mg, add 100µL).
-- [ ] Add mixture to MinElute column.
-- [ ] Wash with 500µL buffer QG.
-- [ ] Wash with 750µL buffer PE
-- [ ] Spin empty column for 2 min at 10,000 g.
-- [ ] Elute in 12 µL buffer EB.
-- [ ] Quantify by Nanodrop and/or Qubit.
+- [ ] Weigh mass of gel and add 4 volumes Gel Dissolving Buffer (Biolab Monarch Kit).
+- [ ] Incubate for 5-10min @ 50˚C and/or vortexing periodically until gel has dissolved.
+- [ ] Insert column into collection tube and load sample onto the column.
+- [ ] Spin for 1 minute at 10,000g, then discard flow-through.
+- [ ] Insert column back to the collection tube. Add 200uL DNA Wash Buffer and spin for 1 minute.
+- [ ] Discard flow through and repeat the previous step.
+- [ ] Transfer column into a clean 1.5mL microcentrifuge tube and **SPIN for 1 minute to remove the excess ethanol**.
+- [ ] Add 12uL of DNA elution Buffer to **the center of the matrix without touching the mesh**. Spin for 1 minute to elute DNA.
+- [ ] Quantify by Nanodrop and Qubit.
 
 ## Protocol B: Magnetic Capture
 - [ ] Mix 100ul of pooled library with 80µL ampure XP beads (0.8x bead volume has been picked to remove adapter dimers and free adapter)

@@ -1,5 +1,5 @@
 ---
-title: "Bisanz Lab QIIME2 Pipeline v0.1: qiime2-2021.8"
+title: "Bisanz Lab QIIME2 Pipeline v1.0: qiime2-2021.11"
 date: 'Run at `r format(Sys.time(), "%Y-%m-%d %H:%M")`'
 output: 
   html_document:
@@ -19,7 +19,7 @@ Modify the user parameters below. If this is your first time using any lab conda
 After adjusting the settings, run from the command line by invoking the following commands:
 
 ```
-conda activate qiime2-2021.8
+conda activate qiime2-2021.11
 nohup Rscript -e "rmarkdown::render('AmpliconSeq_q2.Rmd')" > run.log &
 ```
 

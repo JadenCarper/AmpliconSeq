@@ -3,15 +3,19 @@
 ## Theory
 If significant primer dimer formation has occured, these will be quantified by the picogreen assay and lead to poor normalization. If >=25 cycles of PCR have been run during primary PCR, or if during QC, significant primer dimers are observed then this protocol is recommended. Depending on the ratio of beads to DNA volume, a size selection is possible which will remove small DNA. This protocol is set up to use a 1.8x volume; however, this can be adjusted in the script. The defaults in the script will assume you have 50ul amplicon to clean up and will use 90ul beads (1.8x).
 
+## Note
+When making fresh 70% ethanol, do not add ethanol and fill the rest of the volume with water because this will lead to the incorrect ethanol percentage. Instead, add 70 mL of ethanol and 30 mL of water for a total volume of 100 mL of 70% ethanol.
+
+
 ## Automated Method
 
 ### Materials
 - [ ] Ampure XP clean up beads (A63881) *Note: these can be made from scratch for significantly cheaper but may have less consistent size-selection properties*
 - [ ] [Opentrons OT2](https://opentrons.com/ot-2)
-- [ ] [Opentrons 8-channel 300ul pipette head mounted on right (gen2)](https://shop.opentrons.com/collections/ot-2-robot/products/8-channel-electronic-pipette)
+- [ ] [Opentrons 8-channel 300ul pipette head mounted on right (Gen2)](https://shop.opentrons.com/collections/ot-2-robot/products/8-channel-electronic-pipette)
 - [ ] [Opentrons Magnetic Capture Module (Gen2)](https://opentrons.com/modules/magnetic-module/)
 - [ ] 4 x [Opentrons filter 200ul tips](https://shop.opentrons.com/collections/opentrons-tips/products/opentrons-200ul-filter-tips)
-- [ ] 1 x Nest 12 Well Reservoir 15 mL (Nest 360112) 
+- [ ] 1 x  Nest 12 Well Reservoir 15 mL (Nest 360112)
 - [ ] 1 x Nest 1 Well Reservoir 195 mL (Nest 360113) **OR** use an empty tip box lid
 - [ ] 100% Ethanol
 - [ ] Nuclease Free Water
@@ -48,8 +52,8 @@ If significant primer dimer formation has occured, these will be quantified by t
 - [ ] Remove superantant
 - [ ] Add 100µL ethanol to each well and let stand at least 30 seconds
 - [ ] Remove superantant
-- [ ] Air dry for 15 minutes or until beads are dry
-- [ ] Add 40uL nuclease free water and pipette to mix
+- [ ] Air dry for 30 minutes or until beads are dry
+- [ ] Add 30uL nuclease free water and pipette to mix
 - [ ] Incubate for 2 minutes at RT
 - [ ] Capture beads for 2 minutes or until cleared
 - [ ] Remove supernatant (containing DNA) to new 96 well plate to carry forward.
