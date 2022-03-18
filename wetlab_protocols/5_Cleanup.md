@@ -26,13 +26,12 @@ Before sequencing, it is crucial to remove any free adapter and/or primer dimers
 - [ ] Weigh mass of gel and add 4 volumes Gel Dissolving Buffer (Biolab Monarch Kit).
 - [ ] Incubate for 5-10min @ 50˚C and/or vortexing periodically until gel has dissolved.
 - [ ] Insert column into collection tube and load sample onto the column.
-- [ ] Spin for 1 minute, then discard flow-through.
+- [ ] Spin for 1 minute at 10,000g, then discard flow-through.
 - [ ] Insert column back to the collection tube. Add 200uL DNA Wash Buffer and spin for 1 minute.
 - [ ] Discard flow through and repeat the previous step.
-- [ ] Transfer column into a clean 1.5mL microcentrifuge tube.
-- [ ] Add >=6uL of DNA elution Buffer to the center of the matrix. Wait for 1 minute, and spin for 1 minute to elute DNA.
-- [ ] Typical ellution volumes are 6-20uL and nuclease-free water can also be used to elute DNA. For larger size DNA (>=10kb) heating the elution buffer to 50C prior to use can improve yield.
-- [ ] Quantify by Nanodrop and/or Qubit.
+- [ ] Transfer column into a clean 1.5mL microcentrifuge tube and **SPIN for 1 minute to remove the excess ethanol**.
+- [ ] Add 12uL of DNA elution Buffer to **the center of the matrix without touching the mesh**. Spin for 1 minute to elute DNA.
+- [ ] Quantify by Nanodrop and Qubit.
 
 ## Protocol B: Magnetic Capture
 - [ ] Mix 100ul of pooled library with 80µL ampure XP beads (0.8x bead volume has been picked to remove adapter dimers and free adapter)
