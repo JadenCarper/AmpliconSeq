@@ -31,7 +31,7 @@ Before sequencing, it is crucial to remove any free adapter and/or primer dimers
 - [ ] Discard flow through and repeat the previous step.
 - [ ] Transfer column into a clean 1.5mL microcentrifuge tube and **SPIN for 1 minute to remove the excess ethanol**.
 - [ ] Add 12uL of DNA elution Buffer to **the center of the matrix without touching the mesh**. Spin for 1 minute to elute DNA.
-- [ ] Quantify by Nanodrop and/or Qubit.
+- [ ] Quantify by Nanodrop and Qubit.
 
 ## Protocol B: Magnetic Capture
 - [ ] Mix 100ul of pooled library with 80µL ampure XP beads (0.8x bead volume has been picked to remove adapter dimers and free adapter)
